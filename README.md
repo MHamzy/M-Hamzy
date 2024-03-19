@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/m-hammad-ab92192b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvCB6gF9rTsC5xO18noa8CQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhammad" height="30" width="40" /></a>
-<a href="https://fb.com/m.hannad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhammad" height="30" width="40" /></a>
+<a href="https://fb.com/m.hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhammad" height="30" width="40" /></a>
 <a href="https://instagram.com/m_hammad203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_hammad203" height="30" width="40" /></a>
 </p>
 
